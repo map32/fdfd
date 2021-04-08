@@ -416,7 +416,7 @@ function App() {
 	
   return (<>
     <div className="App">
-		API 테스트
+		한방학 DB
     </div>
 	<div className="menu" onClick={(e) => {if (e.target.value) {setApiType(menu[e.target.value]); setQuery(null);}}}>
 	{
