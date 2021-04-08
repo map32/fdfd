@@ -453,7 +453,7 @@ function App() {
 					)
 				})
 			}
-		<button onClick={handleSubmit}>api 전송</button>
+		<button onClick={handleSubmit}>검색하기</button>
 		</div> : null
 	}
 	{result ?	<>
